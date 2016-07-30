@@ -173,7 +173,7 @@ var Engine = (function(global) {
         'images/enemy-bug.png',
         'images/char-boy.png',
         'images/x.png',
-        'images/heart.png',
+        'images/Heart.png',
         'images/gameover.png',
         'images/win.png'
     ]);
