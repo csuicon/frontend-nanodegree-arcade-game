@@ -214,7 +214,7 @@ Player.prototype.handleInput = function(e) {
 };
 
 Player.prototype.drawHearts = function() {
-    var image_heart = Resources.get('images/heart.png');
+    var image_heart = Resources.get('images/Heart.png');
     //resize the heart image
     image_heart.width = 30;
     image_heart.height = 51;
